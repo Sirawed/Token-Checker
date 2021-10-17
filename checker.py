@@ -1,7 +1,7 @@
-import requests, random
+import requests
 import colorama
 from colorama import Fore
-from colorama import Fore, 
+
 colorama.init()
 
 
